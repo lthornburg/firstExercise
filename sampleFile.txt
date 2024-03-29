@@ -1,0 +1,2 @@
+This is a sample file to add to git.
+Trying to make sure that I get the .git file in the folder.
